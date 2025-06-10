@@ -1,0 +1,7 @@
+﻿Model,F1-Score
+RF,88.52
+KNN,85.55
+XGB,81.96
+SVM,80
+ANN,78.4
+NB,13.71
